@@ -44,7 +44,4 @@ ______________________
 __________________________
 
 
-lavad tx staking create-validator \
---amount=90000ulava \
---pubkey=$(lavad tendermint show-validator) \
---moniker="YOUR_VALIDATOR_MONIKER" \
+
